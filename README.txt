@@ -1,1 +1,1 @@
-Welcome to my personal portfolio. This website showcases my journey and accomplishments in the field of Artificial Intelligence, from academic projects to real-world applications. Feel free to explore my work, read my reflections on AI, and view my academic and professional background.
+This website showcases my journey and accomplishments in the field of Artificial Intelligence, from academic projects to real-world applications. Feel free to explore my work, read my reflections on AI, and view my academic and professional background.
